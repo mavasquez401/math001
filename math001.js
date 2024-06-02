@@ -9,5 +9,7 @@ multiplyThem = () => {
 
     // Changes totalMultiplies to new text
     document.getElementById("totalMultiplied").innerHTML = `<p style="color:Green">The total of ${number1} times ${number2} equals ${multipliedNum}</p>`
-    console.log(multipliedNum)
+    
+    // Tester line
+    // console.log(multipliedNum)
 }
